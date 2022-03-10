@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning parallel programming on Nvidia Jetson Nano.
+- ⚡ Links to other profiles:
+     - [HackerRank]/https://www.hackerrank.com/mdawood?hr_r=1)
+     - [Codeforces](https://codeforces.com/submissions/marwanfarrah)
+     - [LeetCode](https://leetcode.com/progress/)
+
 <!--
 **MarwanDawood/MarwanDawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
