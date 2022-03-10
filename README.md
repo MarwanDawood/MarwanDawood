@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning parallel programming on Nvidia Jetson Nano.
-- ⚡ Links to other profiles:
-     - [HackerRank]/https://www.hackerrank.com/mdawood?hr_r=1)
+- 🌱 I’m currently learning parallel programming on _Nvidia Jetson Nano_.
+- ⚡ Links to other coding profiles:
+     - [HackerRank](https://www.hackerrank.com/mdawood?hr_r=1)
      - [Codeforces](https://codeforces.com/submissions/marwanfarrah)
      - [LeetCode](https://leetcode.com/progress/)
 
